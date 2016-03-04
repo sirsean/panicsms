@@ -23,6 +23,11 @@ button {
     border: none;
 }
 
+.Header.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
 .Header h1 {
     color: #C22326;
 }
