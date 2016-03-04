@@ -1,0 +1,5 @@
+.DN_STORE
+panicsms
+build/
+static/build.js
+node_modules

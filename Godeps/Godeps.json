@@ -1,0 +1,40 @@
+{
+	"ImportPath": "github.com/sirsean/panicsms",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/carlosdp/twiliogo",
+			"Comment": "v0.1-15-g6cdb8bf",
+			"Rev": "6cdb8bf2869bbcd06275eed8e4871f595dcf7c57"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "215affda49addc4c8ef7e2534915df2c8c35c6cd"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "f7b6aaaa69e39a15e1f94389b8effd3f9338b013"
+		},
+		{
+			"ImportPath": "github.com/gorilla/schema",
+			"Rev": "83d18c92c931a85a1393e7294a74dec23086f89c"
+		},
+		{
+			"ImportPath": "github.com/stretchr/objx",
+			"Rev": "cbeaeb16a013161a98496fad62933b1d21786672"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Comment": "v1.0-40-g7c2b1e5",
+			"Rev": "7c2b1e5640dcf2631213ca962d892bffa1e08860"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/mock",
+			"Comment": "v1.0-40-g7c2b1e5",
+			"Rev": "7c2b1e5640dcf2631213ca962d892bffa1e08860"
+		}
+	]
+}
